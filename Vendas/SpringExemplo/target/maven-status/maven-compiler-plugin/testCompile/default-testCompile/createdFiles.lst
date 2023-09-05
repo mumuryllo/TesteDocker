@@ -1,0 +1,13 @@
+vendas\controllers\UserControllerTest.class
+vendas\repositories\ProductRepositoryTest.class
+vendas\controllers\CategoryControllerTest.class
+vendas\repositories\CategoryRepositoryTest.class
+vendas\services\ProductServiceTest.class
+vendas\VendasTests.class
+vendas\services\CategoryServiceTest.class
+vendas\controllers\ProductControllerTest.class
+vendas\services\UserServiceTest.class
+vendas\controllers\OrderControllerTest.class
+vendas\repositories\OrderRepositoryTest.class
+vendas\repositories\UserRepositoryTest.class
+vendas\services\OrderServiceTest.class
